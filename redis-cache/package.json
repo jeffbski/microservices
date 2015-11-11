@@ -1,0 +1,11 @@
+{
+  "name": "redis-cache",
+  "version": "1.0.0",
+  "description": "An example of using microservices to prepopulate a redis list cache",
+  "author": "Jeff Barczewski",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^3.0.1",
+    "ioredis": "^1.10.0"
+  }
+}

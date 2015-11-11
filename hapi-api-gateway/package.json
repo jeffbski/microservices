@@ -1,0 +1,17 @@
+{
+  "name": "hapi-api-gateway",
+  "version": "1.0.0",
+  "description": "Examples using hapi to build simple microservices and using hapi to build simple API proxies or smart API gateways. An API gateway can aggregate data from to many microservices into one call.",
+  "author": "Jeff Barczewski",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^3.0.0",
+    "h2o2": "^4.0.2",
+    "hapi": "^11.1.0",
+    "once": "^1.3.2",
+    "wreck": "^7.0.0"
+  },
+  "devDependencies": {
+    "parallelshell": "^2.0.0"
+  }
+}

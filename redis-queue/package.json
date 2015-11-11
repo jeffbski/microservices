@@ -1,0 +1,11 @@
+{
+  "name": "redis-queue",
+  "version": "1.0.0",
+  "description": "An example of using a redis list as a queue for a microservice mail server",
+  "author": "Jeff Barczewski",
+  "license": "MIT",
+  "dependencies": {
+    "ioredis": "^1.10.0",
+    "lodash.times": "^3.0.3"
+  }
+}
